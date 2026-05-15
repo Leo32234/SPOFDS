@@ -1,0 +1,9 @@
+ritwickdey.LiveServer
+esbenp.prettier-vscode
+dsznajder.es7-react-js-snippets
+ecmel.vscode-html-css
+formulahendry.auto-rename-tag
+ecmel.vscode-css-class-completion
+xabikos.javascriptsnippets
+coenraads.bracket-pair-colorizer-2
+christian-kohler.path-intellisense
